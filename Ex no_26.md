@@ -4,7 +4,7 @@
 To write a C program to demonstrate a self-referential structure where an employee has a pointer to their manager.
 
 ## Algorithm
-1. Start.
+1. Start.a
 2. Create a structure and data member using pointer.
 3. Prompt the user to enter a value.
 4. Print the structure values.
